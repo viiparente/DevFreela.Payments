@@ -1,3 +1,5 @@
+![example workflow](https://github.com/viiparente/DevFreela.Payments/actions/workflows/dotnet.yml/badge.svg)
+
 # DevFreela.Payments
 API .Net Core MicroServiço para consumo e processamento de pagamentos do projeto principal [DevFreela](https://github.com/viiparente/DevFreela)
 
